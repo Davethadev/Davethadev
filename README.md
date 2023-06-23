@@ -8,7 +8,7 @@ I've been learning to code for about 6 months now. I started with solidity for b
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [david\_umanah@yahoo.com](mailto:david_umanah@yahoo.com)
-* 🧠  I'm currently learning C
+* 🧠  I'm currently learning React
 * 🤝  I'm open to collaborating on interesting projects
 
 
