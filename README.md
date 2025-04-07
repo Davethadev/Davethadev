@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend web developer
 ----------------------
 
-I've been learning to code for about 6 months now. I started with solidity for blockchain development before switching to frontend web development about a month after.
-
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [david\_umanah@yahoo.com](mailto:david_umanah@yahoo.com)
 * 🧠  I'm currently learning React
