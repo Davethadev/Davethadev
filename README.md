@@ -6,7 +6,7 @@ Frontend web developer
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [david\_umanah@yahoo.com](mailto:david_umanah@yahoo.com)
-* 🧠  I'm currently learning React
+* 🧠  I'm currently exploring backend development
 * 🤝  I'm open to collaborating on interesting projects
 
 
